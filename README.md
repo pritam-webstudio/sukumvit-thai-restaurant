@@ -1,1 +1,0 @@
-# sukumvit-thai-restaurant
