@@ -1,1 +1,0 @@
-console.log("Sukumvit Thai Restaurant loaded");
